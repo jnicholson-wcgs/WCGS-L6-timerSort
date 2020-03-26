@@ -1,1 +1,2 @@
 run='mcs -unsafe -out:timeSort.exe timeSort.cs ; mono timeSort.exe'
+language = "C#"
