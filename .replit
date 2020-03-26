@@ -1,0 +1,1 @@
+run='mcs -unsafe -out:timerSort.exe timerSort.cs ; mono timerSort.exe'
