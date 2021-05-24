@@ -51,6 +51,17 @@ class MainClass {
       return ;
     }
   }
+  
+  class insertion : sorter {
+    public insertion() : base ("insertion") {}
+    public override void sort (int [] tosort) {
+      //
+      // Implement the merge sort algo here.
+      //
+      //Console.WriteLine ("{0} sort", this.name);
+      return ;
+    }
+  }
   public static void Main (string[] args) {
     Stopwatch sw = new Stopwatch();
 
@@ -77,6 +88,7 @@ class MainClass {
 
     sorters.Add (new bubble());
     sorters.Add (new merge());
+    sorters.Add (new insertion());
 
     //
     // Dual Core - Implement Quick sort
