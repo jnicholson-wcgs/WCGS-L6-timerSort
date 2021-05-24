@@ -4,9 +4,11 @@
  * 2) Comment the existing code
  * 3) Write and test the bubble() and merge() sort algorithms. 
  *    You may have to write/modify this in an exam
- * 4) Write and test the quick sort alogorithm - this is a quite a bit harder. 
+ * 4) Write and test the insertion() sort algorithm. 
+ *    You may have to write/modify this in an exam
+ * 5) Write and test the quick sort alogorithm - this is a quite a bit harder. 
  *    You may have to describe this algo in 
- * 5) Write and test the heap sort alogorithm - not part of the currciulum.
+ * 6) Write and test the heap sort alogorithm - not part of the currciulum.
  *    This may be needed for your NEA.
  * Ensure that all code is commented.
  * When you have finished, commit the code back to github with a link to your repl.it code
